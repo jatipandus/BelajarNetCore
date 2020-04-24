@@ -1,0 +1,14 @@
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\bin\Debug\netcoreapp2.1\ASPNETCORE.deps.json
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\bin\Debug\netcoreapp2.1\ASPNETCORE.runtimeconfig.json
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\bin\Debug\netcoreapp2.1\ASPNETCORE.runtimeconfig.dev.json
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\bin\Debug\netcoreapp2.1\ASPNETCORE.dll
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\bin\Debug\netcoreapp2.1\ASPNETCORE.pdb
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\obj\Debug\netcoreapp2.1\ASPNETCORE.csprojAssemblyReference.cache
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\obj\Debug\netcoreapp2.1\ASPNETCORE.csproj.CoreCompileInputs.cache
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\obj\Debug\netcoreapp2.1\ASPNETCORE.RazorAssemblyInfo.cache
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\obj\Debug\netcoreapp2.1\ASPNETCORE.RazorAssemblyInfo.cs
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\obj\Debug\netcoreapp2.1\ASPNETCORE.AssemblyInfoInputs.cache
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\obj\Debug\netcoreapp2.1\ASPNETCORE.AssemblyInfo.cs
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\obj\Debug\netcoreapp2.1\ASPNETCORE.RazorTargetAssemblyInfo.cache
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\obj\Debug\netcoreapp2.1\ASPNETCORE.dll
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\ASPNETCORE\JWT_API_NETCORE\obj\Debug\netcoreapp2.1\ASPNETCORE.pdb
