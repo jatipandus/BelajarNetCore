@@ -1,1 +1,1 @@
-JWT_API_NETCORE
+asp.net core
